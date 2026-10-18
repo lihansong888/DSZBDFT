@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="hansong国内地方",山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",七台河新闻综合
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="hansong国内地方",万州三峡移民
@@ -66,15 +68,15 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 #EXTINF:-1 group-title="hansong国内地方",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
-#EXTINF:-1 group-title="hansong国内地方",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="hansong国内地方",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 group-title="hansong国内地方",余姚综合
 https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",余姚综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
-#EXTINF:-1 group-title="hansong国内地方",余姚综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="hansong国内地方",余姚综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
 #EXTINF:-1 group-title="hansong国内地方",余杭未来E
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",余杭未来E
@@ -125,12 +127,8 @@ https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 group-title="hansong国内地方",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="hansong国内地方",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="hansong国内地方",哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="hansong国内地方",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/sd/live.m3u8
 #EXTINF:-1 group-title="hansong国内地方",哈尔滨都市咨询
@@ -141,8 +139,12 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",嘉峪关综合
 http://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="hansong国内地方",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 group-title="hansong国内地方",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="hansong国内地方",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 group-title="hansong国内地方",大宁综合
 http://live.daningtv.com/aac_dngb/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",天祝综合
@@ -188,21 +190,23 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广安公共
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
+#EXTINF:-1 group-title="hansong国内地方",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-#EXTINF:-1 group-title="hansong国内地方",广安公共
-http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 group-title="hansong国内地方",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 group-title="hansong国内地方",广州综合
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="hansong国内地方",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1 group-title="hansong国内地方",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 group-title="hansong国内地方",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 group-title="hansong国内地方",广德生活
 https://live.gdtv.ah.cn/live/newsTV.m3u8
 #EXTINF:-1 group-title="hansong国内地方",广西国际
@@ -216,9 +220,9 @@ http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="hansong国内地方",延边2
 http://stream5.jlntv.cn/wq/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 group-title="hansong国内地方",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="hansong国内地方",开化国家公园
@@ -250,9 +254,9 @@ http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="hansong国内地方",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 #EXTINF:-1 group-title="hansong国内地方",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
-#EXTINF:-1 group-title="hansong国内地方",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+#EXTINF:-1 group-title="hansong国内地方",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
 #EXTINF:-1 group-title="hansong国内地方",新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",旺苍新闻综合
@@ -274,9 +278,9 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",松潘新闻综合
-http://live.spccmc.com:90/live/spxwzh.m3u8
-#EXTINF:-1 group-title="hansong国内地方",松潘新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+#EXTINF:-1 group-title="hansong国内地方",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
 #EXTINF:-1 group-title="hansong国内地方",松阳综合
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",松阳综合
@@ -305,16 +309,14 @@ http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 group-title="hansong国内地方",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 group-title="hansong国内地方",江夏新闻综合
-http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 group-title="hansong国内地方",汪清综合
 http://stream5.jlntv.cn/wq/sd/live.m3u8
 #EXTINF:-1 group-title="hansong国内地方",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="hansong国内地方",汶川新闻综合
-http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-#EXTINF:-1 group-title="hansong国内地方",汶川新闻综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+#EXTINF:-1 group-title="hansong国内地方",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 group-title="hansong国内地方",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 #EXTINF:-1 group-title="hansong国内地方",沐川综合
@@ -322,23 +324,19 @@ http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zs
 #EXTINF:-1 group-title="hansong国内地方",河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 group-title="hansong国内地方",河北农民
-https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 group-title="hansong国内地方",河北农民
 http://ls.qingting.fm/live/1650.m3u8
+#EXTINF:-1 group-title="hansong国内地方",河北农民
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 group-title="hansong国内地方",河北都市
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
-#EXTINF:-1 group-title="hansong国内地方",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="hansong国内地方",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="hansong国内地方",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+#EXTINF:-1 group-title="hansong国内地方",泸县新闻综合
+https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",泸县新闻综合
 http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
-#EXTINF:-1 group-title="hansong国内地方",泸县新闻综合
-https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="hansong国内地方",洞头综合
@@ -350,21 +348,15 @@ http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 group-title="hansong国内地方",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江公共新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江公共新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-#EXTINF:-1 group-title="hansong国内地方",浙江国际
-http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江教育
@@ -374,45 +366,37 @@ http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 group-title="hansong国内地方",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 group-title="hansong国内地方",浙江新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-#EXTINF:-1 group-title="hansong国内地方",浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 group-title="hansong国内地方",浙江民生
+http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江民生休闲
-http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江留学
 http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-#EXTINF:-1 group-title="hansong国内地方",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="hansong国内地方",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 group-title="hansong国内地方",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江经济生活
-http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江经视
 http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+#EXTINF:-1 group-title="hansong国内地方",浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江遂昌
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江钱江
@@ -420,13 +404,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 #EXTINF:-1 group-title="hansong国内地方",浙江钱江
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 group-title="hansong国内地方",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 group-title="hansong国内地方",浙江钱江频道
-http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",海南新闻
 http://ls.qingting.fm/live/1861.m3u8
 #EXTINF:-1 group-title="hansong国内地方",海宁新闻综合
@@ -477,6 +459,8 @@ https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="hansong国内地方",白银综合
 http://play.kankanlive.com/live/1720408089419110.m3u8
+#EXTINF:-1 group-title="hansong国内地方",睢宁综合
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="hansong国内地方",磐石综合
 http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
 #EXTINF:-1 group-title="hansong国内地方",祁门综合
@@ -522,9 +506,9 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 group-title="hansong国内地方",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 group-title="hansong国内地方",荆门新闻综合
-https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
-#EXTINF:-1 group-title="hansong国内地方",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="hansong国内地方",荆门新闻综合
+https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 #EXTINF:-1 group-title="hansong国内地方",荥经综合
 https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 #EXTINF:-1 group-title="hansong国内地方",荥阳综合
@@ -561,7 +545,7 @@ https://play.kankanlive.com/live/1683944827526991.m3u8
 https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="hansong国内地方",象山新闻综合
+#EXTINF:-1 group-title="hansong国内地方",象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 group-title="hansong国内地方",象山综合
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
@@ -581,7 +565,7 @@ https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="hansong国内地方",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="hansong国内地方",邯郸公共频道
+#EXTINF:-1 group-title="hansong国内地方",邯郸公共
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="hansong国内地方",邯郸新闻
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
