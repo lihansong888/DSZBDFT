@@ -11,6 +11,7 @@ URL_LIST = [
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
     "地方频道": "hansong国内地方",
+    "数字频道": "hansong数字频道",
 }
 
 def parse_any(text: str):
